@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princechim
 - 👀 I’m very much interested in Software Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
